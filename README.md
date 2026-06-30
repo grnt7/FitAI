@@ -3,7 +3,7 @@
 [![Stack: Next.js / React Native](https://img.shields.shields.io/badge/Stack-Next.js%20%7C%20React%20Native%20%7C%20TypeScript-blue)](#-tech-stack--architecture)
 [![Workflow: AI-Augmented](https://img.shields.shields.io/badge/Workflow-AI%20Augmented%20%2F%20Cursor-blueviolet)](#-ai-velocity--workflow)
 
-A high-performance, commercially viable [web system / cross-platform mobile application] architected to solve automated athletic scheduling. Developed with a strict focus on rapid deployment pipelines, secure data handling, and fluid user experiences.
+A high-performance, commercially viable web system / cross-platform mobile application architected to solve automated athletic scheduling. Developed with a strict focus on rapid deployment pipelines, secure data handling, and fluid user experiences.
 
 ---
 
