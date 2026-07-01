@@ -24,8 +24,8 @@ A high-performance, commercially viable web system / cross-platform mobile appli
 As a developer with nearly a decade of retail operations and commercial management experience, this application was built with business logic at the forefront:
 
 *   **Monetization Ready:** Features a secure, multi-tiered infrastructure handling [webhooks / Stripe subscription pipelines / Clerk role-based access management].
-*   **User Retention:** Implements lightweight, global state synchronization using [Zustand / React Context] ensuring sub-100ms UI latency to prevent bounce rates.
-*   **Data Integrity:** Fully relational [Supabase / PostgreSQL] schema structured with strict row-level security (RLS) policies to handle live user data securely.
+*   **User Retention:** Implements lightweight, global state synchronization using Zustand ensuring sub-100ms UI latency to prevent bounce rates.
+*   **Data Integrity:** Workout and exercise data stored in Sanity CMS, scoped per user via Clerk authentication.
 
 ---
 
@@ -40,14 +40,14 @@ This project highlights a modern, highly efficient development lifecycle utilizi
 ## 🛠 Tech Stack & Architecture
 
 ### Frontend & Core Interface
-*   **Framework:** [React 19 / Next.js 15 / React Native via Expo]
+*   **Framework:** React Native via Expo (Expo Router)
 *   **Type Safety:** TypeScript (Strict Null Checks)
 *   **Styling:** Tailwind CSS / NativeWind
 
 ### Backend & Infrastructure
-*   **Database & Auth:** Supabase (PostgreSQL), [Clerk Auth / NextAuth]
-*   **State Management:** [Zustand / React Query]
-*   **Third-Party APIs:** [Mapbox API / OpenAI API / Stripe Webhooks]
+*   **Database & Auth:** Sanity CMS (exercises, workouts, media), Clerk Auth
+*   **State Management:** Zustand (with AsyncStorage persistence for active workouts)
+*   **Third-Party APIs:** OpenAI API (AI form guidance), Sanity CDN (exercise images)
 
 ---
 
