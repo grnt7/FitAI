@@ -10,7 +10,7 @@ A high-performance, commercially viable web system / cross-platform mobile appli
 
 | Main Dashboard / UI | Core Feature / Flow | System Settings / Database Interaction |
 | --- | --- | --- |
-| <img src="./screenshots/screen1.png" width="260" alt="Dashboard" /> | <img src="./screenshots/screen2.png" width="260" alt="Core Feature" /> | <img src="./screenshots/screen3.png" width="260" alt="Settings" /> |
+| <img src=FitnessTrackerHomepage.png" width="260" alt="Dashboard" /> | <img src="./screenshots/screen2.png" width="260" alt="Core Feature" /> | <img src="./screenshots/screen3.png" width="260" alt="Settings" /> |
 
 *💡 **Live Deployment:** [👉 Click here to view the live web preview / Expo layout](https://your-deployment-link.com)*
 
