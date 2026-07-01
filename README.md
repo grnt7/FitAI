@@ -9,10 +9,10 @@ A high-performance, commercially viable web system / cross-platform mobile appli
 ## 📱 App Previews & Production Layouts
 
 | Main Dashboard / UI | Core Feature / Flow | System Settings / Database Interaction |
-| --- | --- | <img width="237" height="500" alt="Fitness-App-Ai-Guidance" src="https://github.com/user-attachments/assets/e02bcaa9-f300-41a7-8468-97a0e5af0328" /> |
-|<img width="237" height="500" alt="FitnessTrackerHomepage" src="https://github.com/user-attachments/assets/541f07d4-b687-4da1-9269-823c3c15529d" />
+| --- | --- |---|
+|<img width="237" height="500" alt="FitnessTrackerHomepage" src="https://github.com/user-attachments/assets/541f07d4-b687-4da1-9269-823c3c15529d" /> |  <img width="237" height="500" alt="Fitness-App-Ai-Guidance" src="https://github.com/user-attachments/assets/e02bcaa9-f300-41a7-8468-97a0e5af0328" /> 
 
- |
+ 
 
 *💡 **Live Deployment:** [👉 Click here to view the live web preview / Expo layout](https://your-deployment-link.com)*
 
